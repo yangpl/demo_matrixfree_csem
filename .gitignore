@@ -1,0 +1,5 @@
+# Large external Marlim source data. Keep local copies, but do not publish them
+# in the normal Git repository; GitHub rejects files over 100 MB.
+/run_marlim/Rh
+/run_marlim/Rv
+/run_marlim/marlim_comp.npz
